@@ -3,6 +3,8 @@ Interactive Electronics Learning Platform
 
 ## Note Gate — Circuit Puzzle (Prototype)
 
+🎮 **[Play Now](https://sreejadaravath.github.io/ece-master/)** — Try it in your browser!
+
 This is a small browser prototype to teach the voltage divider (Ohm's law) using an interactive gate mechanic.
 
 ### Files
